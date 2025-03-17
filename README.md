@@ -40,10 +40,3 @@ El objetivo es mejorar la capacidad de generalización utilizando una arquitectu
    - Identificación de la clase con más errores  
    - Visualización de imágenes mal clasificadas  
 
----
-
-## 📌 Cómo ejecutar el proyecto
-1. Clonar este repositorio  
-   ```bash
-   git clone https://github.com/tuusuario/cnn-clasificacion-imagenes.git
-   cd cnn-clasificacion-imagenes
